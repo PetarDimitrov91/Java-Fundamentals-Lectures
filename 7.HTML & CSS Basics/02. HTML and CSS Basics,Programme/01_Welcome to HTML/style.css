@@ -1,0 +1,54 @@
+body {
+    font-family: 'Potta One', cursive;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    background: #2A58B2;
+    color: white;
+}
+
+.abv {
+    color: teal;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    font-family: 'Noto Sans JP', cursive;
+    color: #2A58B2;
+}
+
+nav {
+    background: yellow;
+    padding: 5px;
+}
+
+button {
+    border: 1px solid #808080;
+    background: pink;
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 5px 20px;
+    color: #e41d1d;
+    font-weight: bold;
+    border-radius: 2mm;
+}
+
+.first {
+    border: 1px solid #808080;
+    background: rgb(17, 10, 11);
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 5px 20px;
+    color: #f7e7e7;
+    font-weight: bold;
+    border-radius: 2mm;
+}
