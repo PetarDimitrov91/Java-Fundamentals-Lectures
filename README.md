@@ -1,1 +1,1 @@
-## This is my Java-Fundamentals module, icncluding all lectures! 
+## This is my Java-Fundamentals module, including all lectures! 
